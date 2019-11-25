@@ -23,7 +23,7 @@ public class TrueFalse extends JFrame {
     int counter=0;
 
 
-    String [][] preguntas = {{"Pregunta 1? ","true"},{"Pregunta 2? ","false"},{"Pregunta 3? ","true"},{"Pregunta 4? ","false"},{"Pregunta 5? ","true"},{"Pregunta 6? ","false"}};
+    String [][] preguntas = {{"Era el diezmo un impuesto durante la colonia? ","true"},{"Los virreinatos abarcaban pequenas extensiones territoriales? ","false"},{"Los virreinatos estaban dirigidos por un virrey? ","true"},{"Las alcaldias eran administradas por un alcalde? ","false"},{"El gobernador es la maxima autoriad en las provincias? ","true"},{"CR politicamente dependia de la Capitania General de Mexico? ","false"},{"El mestizo es una mezcla entre blanco e indigena.","true"},{"Los indiginas son habitantes originarios de las indias","false"},{"El Zambo es hijo de un indigena y una persona negra","true"}};
 
     LinkedList simpleList = new LinkedList();
 
